@@ -1,0 +1,2 @@
+1) build dashboard
+2) fix bugs
