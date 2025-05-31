@@ -1,3 +1,0 @@
-1) build dashboard
-2) fix bugs
-3) vhaad
